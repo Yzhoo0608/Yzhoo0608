@@ -1,0 +1,70 @@
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+
+</style>
+</head>
+<body>
+
+<h2>Yz timetable</h2>
+
+<table>
+  <tr>
+    <th>Day/Time</th>
+    <th>8:30am-11:30pm</th>
+    <th>9:00am-12:00pm</th>
+    <th>1:00pm-4:00pm</th>
+   
+  </tr>
+  <tr>
+    <td><b>MONDAY</b></td>
+    <td>BAI 2113 Computer Organization & Architecture</td>
+    <td></td>
+    <td>BAI 2123 Databases</td>
+
+
+   
+  </tr>
+  <tr>
+    <td><b>TUESDAY</b></td>
+    <td>BAI 2153 Web Programming</td>
+    <td></td>
+    <td></td>
+   
+  </tr>
+  <tr>
+    <td><b>WEDNESDAY</b></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><b>THURSDAY</b></td>
+    <td></td>
+    <td></td>
+    <td>BAI 2133 Operating Systems</td>
+  </tr>
+
+   <tr>
+    <td><b>FRIDAY</b></td>
+    <td></td>
+    <td>BAI 2143 Algorithms</td>
+    <td></td>
+  </tr>
+  
+</table>
+
+</body>
+</html>
